@@ -1,11 +1,10 @@
 {
   "name": "@c77/exceptions",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "C77 TypeScript Helper - Exceptions",
-  "main": "dist/http.exception.ts",
+  "main": "dist/http.exception.js",
   "scripts": {
-    "build": "tsc",
-    "publish": "npm publish --access public"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
