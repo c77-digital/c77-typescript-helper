@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "lib": ["es2015", "es2017", "es7", "es6", "dom"],
+    "target": "es5",
+    "module": "commonjs", // added
+    "sourceMap": true,
+    "outDir": "./dist",
+    "rootDir": "./",
+    "allowJs": false,
+    "removeComments": true,
+    "esModuleInterop": true,
+    "preserveConstEnums": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "declaration": true,
+  },
+  "include": ["./**/*.ts"],
+  "exclude": ["node_modules", "./dist"]
+}
