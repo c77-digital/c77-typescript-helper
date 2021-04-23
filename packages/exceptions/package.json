@@ -1,0 +1,19 @@
+{
+  "name": "@c77/exceptions",
+  "version": "1.0.0",
+  "description": "C77 TypeScript Helper - Exceptions",
+  "main": "dist/http.exception.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c77-digital/c77-typescript-helper.git"
+  },
+  "author": "Christoph Stockinger <cstockinger@c77.digital>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c77-digital/c77-typescript-helper/issues"
+  },
+  "homepage": "https://github.com/c77-digital/c77-typescript-helper#readme"
+}
