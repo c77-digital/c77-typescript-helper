@@ -1,8 +1,7 @@
 {
-  "name": "@c77/core",
+  "name": "c77-core",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/c77-digital/c77-typescript-api-core/issues"
   },
-  "homepage": "https://github.com/c77-digital/c77-typescript-api-core#readme"
+  "homepage": "https://github.com/c77-digital/c77-typescript-api-core#readme",
+  "description": ""
 }
