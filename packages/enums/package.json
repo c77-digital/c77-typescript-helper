@@ -2,9 +2,10 @@
   "name": "@c77/enums",
   "version": "1.0.0",
   "description": "C77 Typescript Helper - Enums",
-  "main": "dist/index.js",
+  "main": "dist/http-status.enum.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "publish": "npm publish --access public"
   },
   "repository": {
     "type": "git",
