@@ -1,0 +1,19 @@
+{
+  "name": "@c77/response",
+  "version": "1.0.0",
+  "description": "## Install Package",
+  "main": "dist/response.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c77-digital/c77-typescript-helper.git"
+  },
+  "author": "Christoph Stockinger <cstockinger@c77.digital>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c77-digital/c77-typescript-helper/issues"
+  },
+  "homepage": "https://github.com/c77-digital/c77-typescript-helper#readme"
+}
