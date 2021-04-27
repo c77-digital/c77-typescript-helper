@@ -1,6 +1,6 @@
 {
   "name": "@c77/response",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "## Install Package",
   "main": "dist/response.js",
   "scripts": {
